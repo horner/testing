@@ -20,4 +20,4 @@
 
 "this is a link":other_page
 
-And [[test internal page|this]] is supposed to be an internal link.
+And [[test internal page.wiki|this]] is supposed to be an internal link.
